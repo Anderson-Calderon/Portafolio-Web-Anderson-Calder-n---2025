@@ -254,7 +254,7 @@ export default function Home() {
 
                 </div>
 
-                  <Image   src="/imagenes/Banner Greta Market Saludable - home.png"  className="imagen-portafolio" width={400} height={200} alt="Imagen Proyecto" alt="Imagen de ecommerce cardwest" />
+                  <Image   src="/imagenes/Banner Greta Market Saludable - home.webp"  className="imagen-portafolio" width={400} height={200} alt="Imagen Proyecto" alt="Imagen de ecommerce greta market saludable" />
 
 
               </div>
@@ -272,7 +272,7 @@ export default function Home() {
 
                 </div>
 
-                <Image   src="/imagenes/Banner Hidrogel - home.png"  className="gentlemen imagen-portafolio " width={400} height={200} alt="Imagen Proyecto" alt="imagen de mi portafolio web - anderson " />
+                <Image   src="/imagenes/Banner Hidrogel - home.webp"  className="gentlemen imagen-portafolio " width={400} height={200} alt="Imagen Proyecto" alt="imagen ecommerce Hidrogel" />
 
               </div>
 
