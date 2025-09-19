@@ -254,7 +254,7 @@ export default function Home() {
 
                 </div>
 
-                  <Image   src="/imagenes/BannerGretaMarketSaludablehome.webp"  className="imagen-portafolio" width={400} height={200} alt="Imagen Proyecto" alt="Imagen de ecommerce greta market saludable" />
+                  <Image   src="https://andersoncalderoncampos.com/wp-content/uploads/2025/09/BannerGretaMarketSaludablehome.webp"  className="imagen-portafolio" width={400} height={200} alt="Imagen Proyecto" alt="Imagen de ecommerce greta market saludable" />
 
 
               </div>
@@ -272,7 +272,7 @@ export default function Home() {
 
                 </div>
 
-                <Image   src="/imagenes/BannerHidrogelhome.webp"  className="gentlemen imagen-portafolio " width={400} height={200} alt="Imagen Proyecto" alt="imagen ecommerce Hidrogel" />
+                <Image   src="https://andersoncalderoncampos.com/wp-content/uploads/2025/09/BannerHidrogelhome.webp"  className="gentlemen imagen-portafolio " width={400} height={200} alt="Imagen Proyecto" alt="imagen ecommerce Hidrogel" />
 
               </div>
 

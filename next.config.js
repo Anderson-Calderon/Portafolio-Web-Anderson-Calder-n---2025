@@ -5,7 +5,7 @@ const nextConfig = {
   images:{
 
              formats:['image/avif','image/webp'],
-             domains:['jacekjeznach.com',"https://formsubmit.co/"]
+             domains:['jacekjeznach.com',"https://formsubmit.co/","andersoncalderoncampos.com"]
 
          }
 }
