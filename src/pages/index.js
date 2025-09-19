@@ -254,7 +254,7 @@ export default function Home() {
 
                 </div>
 
-                  <Image   src="https://portafolioandersoncalderon.netlify.app/imagenes/BannerGretaMarketSaludablehome.jpg"  className="imagen-portafolio" width={400} height={200} alt="Imagen Proyecto" alt="Imagen de ecommerce greta market saludable" />
+                  <img  src="https://portafolioandersoncalderon.netlify.app/imagenes/BannerGretaMarketSaludablehome.jpg"  className="imagen-portafolio" width={400} height={200} alt="Imagen Proyecto" alt="Imagen de ecommerce greta market saludable" />
 
 
               </div>
@@ -272,7 +272,7 @@ export default function Home() {
 
                 </div>
 
-                <Image   src="https://portafolioandersoncalderon.netlify.app/imagenes/BannerHidrogelhome.jpg"  className="gentlemen imagen-portafolio " width={400} height={200} alt="Imagen Proyecto" alt="imagen ecommerce Hidrogel" />
+                <img   src="https://portafolioandersoncalderon.netlify.app/imagenes/BannerHidrogelhome.jpg"  className="gentlemen imagen-portafolio " width={400} height={200} alt="Imagen Proyecto" alt="imagen ecommerce Hidrogel" />
 
               </div>
 
